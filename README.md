@@ -8,12 +8,10 @@
 
 <h2 align="center">About me</h2>
 
-```C#
-namespace DVT
-{
-    class GalaxyTea1
+```JS
+    function GalaxyTea1()
     {
-        static void Main(string[] args)
+        let About = 
         {
             string Name = "Đặng Văn Trọng";
             string Age = "1999";
@@ -24,7 +22,6 @@ namespace DVT
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
         }
     }
-}
 ```
 
 ## <p align="center">You can reach me at 🌹</p>
@@ -42,23 +39,15 @@ namespace DVT
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
-  <a href="https://www.linkedin.com/in/ngoctientnt/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
-  </a>
-  
-  <a href="mailto:ngoctienTNT.vn@gmail.com">
+  <a href="mailto:trongdv1999@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
   </a>
 	
-  <a href="https://www.instagram.com/ngoctien.tnt/">
+  <a href="https://www.instagram.com/kim_nguyet_da_1999/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
   </a>
   
-  <a href="https://www.tiktok.com/@ngoctien_tnt/">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/c/ThienLongTNT">
+  <a href="https://www.youtube.com/channel/UCoX_mKXFf7kE6-QCjNdA0IA">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>
