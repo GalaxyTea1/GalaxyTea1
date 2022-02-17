@@ -54,15 +54,39 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-	<a href="https://nordiccoder.com/app/uploads/2019/08/26-nodejs.png">
+	<a href="https://nodejs.org/en/docs/">
 		<span>Nodejs</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355">
 	 </a>
       </td>
       <td width="20%" align="center">
-	 <a href="https://tuanducdesign.com/images/huong-dan-ve-mongodb.png">
+	 <a href="https://www.mongodb.com/">
 		<span>MongoDB</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224">
+	 </a>
+      </td>
+	<td width="20%" align="center">
+	 <a href="">
+		<span>HTML</span><br><br><br>
+		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png">
+	 </a>
+      </td>
+	<td width="20%" align="center">
+	 <a href="">
+		<span>CSS</span><br><br><br>
+		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
+	 </a>
+      </td>
+	<td width="20%" align="center">
+	 <a href="">
+		<span>Javascript</span><br><br><br>
+		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
+	 </a>
+      </td>
+	<td width="20%" align="center">
+	 <a href="https://www.mongodb.com/">
+		<span>Reactjs</span><br><br><br>
+		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png">
 	 </a>
       </td>
       <td width="20%" align="center">
