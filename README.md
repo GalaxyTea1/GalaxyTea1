@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/GalaxyTea1">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="DVT">
+	<img src="https://phunugioi.com/wp-content/uploads/2020/10/hinh-anh-chibi-buon.jpg" width = "200" alt="DVT">
 	</a>
 </p>
 
@@ -109,7 +109,7 @@
 
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="DVT :: Visitor's Count" /></p>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
@@ -128,29 +128,15 @@
 ## <p align="center">Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/ngoctienTNT/GiveLoveTNT">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-	
-<a href="https://github.com/ngoctienTNT/TodoList2021">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-</p>
-
-<p align="center">	
-<a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-	
-<a href="https://github.com/ngoctienTNT/ngoctien.TNT">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
+<a href="">
+	<img src="" alt="" />
 </a>
 </p>
 
 ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=ngoctienTNT&theme=react-dark&hide_border=true">
+<img src="">
 <p>
 
 <hr>
