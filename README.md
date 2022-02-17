@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/GalaxyTea1">
-	<img src="https://phunugioi.com/wp-content/uploads/2020/10/hinh-anh-chibi-buon.jpg" width = "200" alt="DVT">
+	<img src="https://tophinhanh.com/wp-content/uploads/2021/12/anh-chibi-dep-sieu-de-thuong-1-512x375.jpg" width = "200" alt="DVT">
 	</a>
 </p>
 
