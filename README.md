@@ -1,5 +1,5 @@
-# <p align="center">Văn Trọng</p>
-<a href="https://app.daily.dev/Cyrus0311"><img src="https://api.daily.dev/devcards/de1ae3918dea4daf973c37a140abac60.png?r=ukp" width="400" alt="Trong Dang's Dev Card"/></a>
+# <p align="center"><a href="https://app.daily.dev/Cyrus0311"><img src="https://api.daily.dev/devcards/de1ae3918dea4daf973c37a140abac60.png?r=ukp" width="400" alt="Trong Dang's Dev Card"/></a>
+Văn Trọng</p>
 <p align="center">
 	<a href="https://github.com/GalaxyTea1">
 	<img src="https://tophinhanh.com/wp-content/uploads/2021/12/anh-chibi-dep-sieu-de-thuong-1-512x375.jpg" width = "200" alt="DVT">
