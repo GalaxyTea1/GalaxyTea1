@@ -10,10 +10,10 @@
             string Name = "Đặng Văn Trọng";
             string Age = "1999";
             string Gender = "Male";
-            string Address = "Huế, Việt Nam";
-            string University = "Trường Đại học Kiến Trúc Đà Nẵng";
+            string Address = "Hue, Việt Nam";
+            string University = "Da Nang Architecture University";
             string Skills = " HTML, CSS, JavaScript, Reactjs";
-            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
+            string FamousQuotes = "Only success defines who you are!";
         }
     }
 ```
@@ -103,7 +103,7 @@
 
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="DVT :: Visitor's Count" /></p>
+<p align="center"><img src="https://galaxytea.glitch.me" alt="DVT :: Visitor's Count" /></p>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
