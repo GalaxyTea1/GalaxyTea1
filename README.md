@@ -103,7 +103,7 @@
 
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://galaxytea.glitch.me" alt="DVT :: Visitor's Count" /></p>
+<p align="center"><img src="https://galaxytea.glitch.me/count.svg" alt="DVT :: Visitor's Count" /></p>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
