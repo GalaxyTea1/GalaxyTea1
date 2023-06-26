@@ -111,22 +111,6 @@
 <img src="">
 </p>
 
-## <p align="center">Top langs :tongue:</p>
-
-<p align="center"><img src="" alt="DVT :: Top Langs" /></p>
-
-## <p align="center">Profile stats :musical_keyboard:</p>
-
-<p align="center"><img src="" alt="DVT :: Profile Stats" /></p>
-
-## <p align="center">Repository pin 📌</p>
-
-<p align="center">	
-<a href="">
-	<img src="" alt="" />
-</a>
-</p>
-
 <hr>
 <br>
 
