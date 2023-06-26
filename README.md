@@ -127,12 +127,6 @@
 </a>
 </p>
 
-## <p align="center">Github Contributions 📈</p>
-<br>
-<p align='center'>
-<img src="">
-<p>
-
 <hr>
 <br>
 
