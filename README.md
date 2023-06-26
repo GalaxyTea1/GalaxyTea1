@@ -107,10 +107,6 @@
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
-<p align='center'>
-<img src="">
-</p>
-
 <hr>
 <br>
 
