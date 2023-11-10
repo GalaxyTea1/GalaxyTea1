@@ -24,21 +24,13 @@
   <a href="https://www.facebook.com/Kim.Nguyet.Da.1999/">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
-	
-  <a href="https://github.com/GalaxyTea1">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
-  </a>
-	
+  <a>&nbsp;</a>	
   <a href="mailto:trongdv1999@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
   </a>
-	
+  <a>&nbsp;</a>	
   <a href="https://www.instagram.com/kim_nguyet_da_1999/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCoX_mKXFf7kE6-QCjNdA0IA">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>
 
@@ -104,10 +96,3 @@
 ## <p align="center">Visitor's count :eyes:</p>
 
 <p align="center"><img src="https://galaxycounter.glitch.me/count.svg" alt="DVT :: Visitor's Count" /></p>
-
-## <p align="center">GitHub Profile Trophy 🏆</p>
-
-<hr>
-<br>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
