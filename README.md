@@ -90,7 +90,3 @@
 	  </tr>
   </tbody>
 </table>
-
-## <p align="center">Visitor's count :eyes:</p>
-
-<p align="center"><img src="https://galaxycounter.glitch.me/count.svg" alt="DVT :: Visitor's Count" /></p>
