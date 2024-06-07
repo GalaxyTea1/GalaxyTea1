@@ -1,5 +1,3 @@
-# <p align="center"><a href="https://app.daily.dev/Cyrus0311"><img src="https://api.daily.dev/devcards/de1ae3918dea4daf973c37a140abac60.png?r=ukp" width="400" alt="Trong Dang's Dev Card"/></a></p>
-
 <h2 align="center">About me</h2>
 
 ```JS
