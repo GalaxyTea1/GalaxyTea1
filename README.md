@@ -10,8 +10,6 @@
             string Gender = "Male";
             string Address = "Hue, Việt Nam";
             string University = "Da Nang Architecture University";
-            string Skills = " HTML, CSS, JavaScript, Reactjs";
-            string FamousQuotes = "Only success defines who you are!";
         }
     }
 ```
